@@ -14,5 +14,7 @@ export class AddTodoComponent implements OnInit {
 
   ngOnInit() {}
 
-  onSubmit() {}
+  onSubmit() {
+    const todo = {};
+  }
 }
