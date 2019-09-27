@@ -13,4 +13,6 @@ export class AddTodoComponent implements OnInit {
   constructor() {}
 
   ngOnInit() {}
+
+  onSubmit() {}
 }
